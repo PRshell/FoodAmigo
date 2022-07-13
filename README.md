@@ -1,6 +1,5 @@
 # FoodAmigo
-Responsive online food delivery website
-(Sample Website)
+Responsive online food delivery static website
 
 FoodAmigo is a website through which one can order food through this online portal and can also enjoy the available services provided through this website.
 
